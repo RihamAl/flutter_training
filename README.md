@@ -1,6 +1,7 @@
 # flutter_training
 
-A new Flutter project.
+A new Flutter project
+where the user come and login on his email or create a one if he dont have one,then its choose the type of movie that prefer,the it give a list of movie instead of the type choosen.
 
 ## Getting Started
 
